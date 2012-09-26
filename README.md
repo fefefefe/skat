@@ -1,0 +1,4 @@
+skat
+====
+
+card game Skat
